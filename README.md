@@ -15,6 +15,7 @@ Each article has a corresponding dataset. I used the dataset for the neuroQWERTY
 - Tappy dataset: https://physionet.org/content/tappy/1.0.0/
 
 Citations:
+
 [1] Giancardo, L., Sánchez-Ferro, A., Arroyo-Gallego, T. et al. Computer keyboard interaction as an indicator of early Parkinson’s disease. Sci Rep 6, 34468 (2016). https://doi.org/10.1038/srep34468
 
 [2] Adams, Warwick R. High-accuracy detection of early Parkinson's Disease using multiple characteristics of finger movement while typing. PloS one vol. 12,11 e0188226. 30 Nov. 2017, doi:10.1371/journal.pone.0188226

@@ -8,11 +8,14 @@ File information
 
 The two articles that helped me in choosing what information to extract and put it into a 85x67 dataset are: 
 - neuroQWERTY article: "Computer keyboard interaction as an indicator of early Parkinson’s disease"[1]
-- Tappy article: "High-accuracy detection of early Parkinson's Disease using multiple characteristics of finger movement while typing" [2]
+- Tappy article: "High-accuracy detection of early Parkinson's Disease using multiple characteristics of finger movement while typing"[2]
 
 Each article has a corresponding dataset. I used the dataset for the neuroQWERTY article only. But here is the link to both:
 - neuroQWERTY dataset: https://physionet.org/content/nqmitcsxpd/1.0.0/
 - Tappy dataset: https://physionet.org/content/tappy/1.0.0/
+
+
+
 
 
 Citations:
